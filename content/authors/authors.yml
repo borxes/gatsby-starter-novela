@@ -9,7 +9,6 @@
     - url: https://github.com
     - url: https://github.com
     - url: https://github.com
-  featured: true
 
 - name: Thiago Costa
   bio: |
@@ -22,3 +21,15 @@
     - url: https://github.com
     - url: https://github.com
     - url: https://github.com
+
+- name: Yura Sherman
+  bio: |
+    Blockchain developer and an occasional writer.
+  avatar: ./avatars/yura-sherman.jpg
+  social:
+    - url: https://unsplash.com
+    - url: https://stackoverflow.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+  featured: true
