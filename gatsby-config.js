@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://yurasherman.com`,
     description: `Yura Sherman's dev blog`,
     hero: {
-      heading: `Hey, it's Yura - welcome to my blog!`,
+      heading: `Hey, it's Yura Sherman - welcome to my blog!`,
       maxWidth: 652,
     },
     social: [
