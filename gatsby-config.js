@@ -44,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Yura Sherman's blog`,
+        short_name: `Yura`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
